@@ -1,5 +1,5 @@
 function home() {
-    return <h2>É isso!</h2> 
+    return <h2>Mudei isso aqui com o comando amend</h2> 
 }
 
 export default home;
