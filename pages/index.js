@@ -1,5 +1,10 @@
 function home() {
-  return <h2>Mais uma mudança no textinho desse projeto.</h2>;
+  return (
+    <h2>
+      Tenho um site com meu nome. Agora preciso pensar em como vai ficar esse
+      projeto 🤔.
+    </h2>
+  );
 }
 
 function test() {
