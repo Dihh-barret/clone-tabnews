@@ -1,7 +1,7 @@
 // Fazer um teste não implica que o código está funcionando,
 // mas sim que uma ação esperada foi feita com sucesso ou se falhou;
 
-const calculadora = require("../models/calculadora.js");
+const calculadora = require("../../models/calculadora.js");
 
 test("qual o valor deveria dar?", () => {
   const resultado = calculadora.somar(5, 5);
